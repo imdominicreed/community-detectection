@@ -1,0 +1,1 @@
+\lambda g.((\lambda f.((\lambda x.(f (x x)))(\lambda x . (f (xx)))))g)
